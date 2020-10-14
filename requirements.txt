@@ -1,3 +1,4 @@
 omero-py==5.7.1
 omero-rois
 numpy
+scikit-image
